@@ -1,7 +1,5 @@
 let mix = require('laravel-mix');
-
 var LiveReloadPlugin = require('webpack-livereload-plugin');
-
 /*
  |--------------------------------------------------------------------------
  | Mix Asset Management
