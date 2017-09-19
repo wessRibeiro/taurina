@@ -16,9 +16,9 @@ x
 				transitionDuration: 100,
                 cover: true,
                 slides: [
-                    { src: "/images/slides_home/slide_1.jpg" },
-                    { src: "/images/slides_home/slide_2.jpg" },
-                    { src: "/images/slides_home/slide_3.jpg" },
+                    { src: "./images/slides_home/slide_1.jpg" },
+                    { src: "./images/slides_home/slide_2.jpg" },
+                    { src: "./images/slides_home/slide_3.jpg" },
                 ]
             });
         });
